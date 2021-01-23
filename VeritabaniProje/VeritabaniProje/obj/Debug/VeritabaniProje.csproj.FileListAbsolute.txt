@@ -1,0 +1,15 @@
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\bin\Debug\VeritabaniProje.exe.config
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\bin\Debug\VeritabaniProje.exe
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\bin\Debug\VeritabaniProje.pdb
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.csprojAssemblyReference.cache
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.Properties.Resources.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.exe
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.pdb
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmFilmListe.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmFilmEkle.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmGiris.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmKayit.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmKullanıcılar.resources
+C:\Users\salih\source\repos\VeritabaniProje\VeritabaniProje\obj\Debug\VeritabaniProje.FrmYorumlar.resources
